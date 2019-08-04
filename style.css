@@ -18,7 +18,6 @@ html, body{
 .navbar-light .navbar-brand  {
     background-color: #4aaaa5;
     margin:0;
-    margin-bottom: 10px;
     color:white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     
@@ -39,8 +38,8 @@ html, body{
     
 }
 p {
-    padding: 10px;
-    padding-left: 10px;
+    padding-left:10px;
+    
     line-height: 1.5em;
 }
 
@@ -106,6 +105,8 @@ h2 {
   .footer {
     background-color: #666666;
     border-top: solid 4px #4aaaa5;
+    padding: 0;
+    margin-top: 50px;
     
 
   }
